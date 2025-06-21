@@ -2,7 +2,7 @@
 Welcome to my portfolio repository! This portfolio showcases my projects, skills, and education. Feel free to explore the code, projects, and additional resources. If you have any questions or would like to collaborate, don't hesitate to reach out to me using the contact information below.
 
 # Live Portfolio
-You can visit my live portfolio by clicking https://ashishrana4710.github.io/
+You can visit my live portfolio by clicking https: https://bhoomikaln01.github.io/bhoomi_portfolio/
 
 # Table of Contents
 ⚫ About
