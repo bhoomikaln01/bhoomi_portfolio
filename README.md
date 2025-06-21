@@ -23,8 +23,8 @@ Here, I list my technical skills, including programming languages, frameworks, l
 # Contact
 If you'd like to get in touch with me, you can reach me through the following channels:
 
-Email: ashishrana4710@gmail.com
+Email: bhoomikaln01@gmail.com
 
-LinkedIn: [linkedin.com/in/ashishrana4710](https://www.linkedin.com/in/ashishrana4710)
+LinkedIn: https://www.linkedin.com/in/bhoomika-ln-92371326b
 
 I'm open to networking, collaborations, and discussing exciting opportunities. Let's connect and create something awesome together!
